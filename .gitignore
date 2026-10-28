@@ -47,3 +47,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+# webpack build output
+/api/server.bundle.js
+/api/server.bundle.js.LICENSE.txt
